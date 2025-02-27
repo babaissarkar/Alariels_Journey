@@ -1,0 +1,22 @@
+border_size=1
+usage=map
+
+AYb, AYb, AYb, AYb, Uh, AYb, AYb, AYb, UYi, UYi, AYb, AYb, AYb, AYb, UYi, UYi, AYb, AYb, Uh, UYi, Uh, AYb, AYb, UYi, UYi, UYi, UYi, Uh, AYb, AYb, AYb, UYi, UYi, UYi, Uh, UYi, AYb, UYi, UYi, AYb, AYb, AYb, AYb
+UYi, AYb, UYi, AYb, Uh, AYb, AYb, AYb, UYi, AYb, Uh, Uh, Uh, Uh, UYi, UYi^Crys, UYi, Uh, UYi, UYi, Uh, Uh, AYb, AYb, Uh, UYi, Uh, Uh, AYb, AYb, UYi, UYi^Crys, UYi, Uh, Uh, AYb, AYb, AYb, UYi^Crys, UYi, UYi, AYb, AYb
+AYb, UYi, Uh, Uh, Uh, Uh, AYb, UYi^Crys, UYi, Uh, AYb, AYb, Uh, Uh, Uh, Uh, Uh, Uh, AYb^Crys, UYi, Uh, Uh, Uh, Uh, UYi, Uh, Uh, Uh, Uh, Uh, Uh, UYi, UYi, AYb^Vov, Uh, Uh, Qxuz, Uh, UYi, UYi, AYb, AYb, UYi
+Uh, Uh, UYi, Uh, Uh, Uh, UYi, UYi, Uh, Uh, UYi, UYi, Uh, Uh, Uh, AYb^Vov, AYb, UYi, UYi, UYi, Uh, Uh, AYb, UYi, AYb, AYb, UYi, UYi, UYi, AYb, Uh, Uh, Uh, UYi, Uh, Uh, Uh, Uh, Uh, Uh, Uh, AYb, UYi
+AYb, AYb, AYb, Uh, UYi^Vov, Uh, Qxuz, Uh, UYi, AYb, UYi, UYi, Uh, UYi, UYi, AYb, AYb^Crys, AYb, Uh, Uh, UYi, Uh, AYb, AYb^Crys, AYb, UYi, Qxuz, UYi, UYi^Crys, AYb, UYi, Uh, AYb, Uh, UYi, Uh, AYb, AYb, UYi, Uh, Uh, AYb, UYi
+AYb, AYb, UYi, UYi, UYi, Uh, Uh, Uh, AYb, AYb^Crys, UYi, AYb, Qxuz, AYb, UYi, UYi, UYi, AYb, Uh, AYb, AYb, UYi, UYi, AYb, UYi, Qxuz, Qxuz, UYi, UYi, UYi, Uh, Uh, UYi, UYi, UYi, AYb^Crys, UYi, AYb, UYi, UYi, Uh, UYi, UYi
+UYi, UYi, AYb, UYi, AYb, UYi, UYi, AYb, UYi, UYi, UYi, AYb, Qxuz, Qxuz, Uh, UYi, UYi, Uh, Uh, Uh, Uh, Uh, Uh, UYi, Uh, Qxuz, Qxuz, Qxuz, AYb^Vov, Uh, Uh, UYi, UYi, UYi^Crys, UYi, UYi, UYi, UYi, Uh, Uh, AYb, AYb, Uh
+UYi, UYi, AYb, AYb^Crys, AYb, UYi, Uh, AYb, AYb, AYb^Crys, AYb, AYb, AYb, Qxuz, Qxuz, Uh, Uh, Uh, AYb, AYb, UYi, Uh, AYb^Crys, Uh, AYb, UYi, AYb, Uh, Uh, Uh, AYb, UYi, UYi, AYb, AYb, AYb, UYi, Uh, Uh, Uh, Uh, Uh, UYi
+UYi, AYb, AYb, AYb, Uh, Uh, Kcry, Uh, Uh, UYi, UYi, AYb, AYb, Qxuz, Uh, Uh, UYi, AYb, UYi, AYb, UYi, AYb, Uh, Uh, AYb, UYi, UYi, AYb, AYb, Uh, Uh, UYi, Uh, AYb, Uh, AYb, Uh, Uh, Uh^Cov, Uh^Cov, Ke, AYb, UYi
+UYi, UYi, UYi, Uh, Ccry, Ccry, UYi^Cov, Ccry, Ccry, Uh, UYi, UYi^Crys, UYi, UYi, AYb, UYi, AYb, UYi^Crys, UYi, UYi, Uh, Uh, Uh, Uh, AYb, UYi, UYi, AYb^Crys, UYi, UYi, UYi, Uh, Uh, Uh, UYi, Uh, UYi, UYi, Uh^Cov, 1 Ke, Ke, AYb, UYi
+AYb, UYi, Uh, Uh, Kcry, UYi^Crys, 2 Kcry, AYb^Crys, Kcry, Uh, Uh, UYi, AYb, AYb, AYb^Crys, AYb, AYb, UYi, UYi^Vov, Uh, AYb, UYi, UYi, UYi, UYi, UYi, Qxuz, UYi, UYi, AYb, Uh, Uh, Uh, Uh, UYi, Uh, Uh, UYi, Uh, Ke, UYi^Crys, UYi, UYi
+AYb, AYb, AYb, Uh, Ccry, UYi^Crys, AYb^Cov, AYb^Crys, Ccry, Uh, UYi, UYi, AYb, AYb, UYi, AYb, UYi, UYi, Qxuz, Uh, AYb^Crys, AYb, AYb, UYi^Crys, UYi, UYi, Qxuz, Qxuz, Qxuz, Uh, AYb, UYi, Uh, UYi^Crys, UYi, Qxuz, Uh, AYb, Uh, Uh, Uh, UYi, UYi
+AYb, AYb, AYb, Uh, Uh, Ccry, Kcry, Ccry, Uh, Uh, UYi, UYi, UYi, AYb, AYb, AYb, UYi, UYi, AYb, Uh, Uh, AYb, AYb, UYi, AYb, UYi, AYb, Uh, AYb, UYi, UYi, Uh, Uh, UYi, Uh, Uh, AYb, Uh, Uh, Uh, Uh, UYi, UYi
+UYi, AYb, UYi, UYi, AYb, Uh, Uh, Uh, UYi, UYi, Qxuz, UYi, AYb, UYi^Crys, UYi, UYi, AYb, UYi, Uh, Uh, Uh, Uh, Uh, UYi, Uh, AYb, UYi, AYb^Crys, AYb, UYi^Crys, UYi, UYi, AYb, Uh, Uh, AYb, UYi^Crys, UYi, UYi, Uh, UYi, Uh, Uh
+UYi, UYi, UYi^Crys, UYi, AYb, AYb, AYb, UYi, AYb, AYb, Qxuz, Qxuz, Uh, UYi, UYi, AYb, AYb, Uh, UYi, Uh, UYi, AYb, UYi, Uh, UYi^Vov, Uh, UYi, UYi, AYb, UYi, AYb, UYi, AYb, Uh, Uh, UYi, UYi, UYi, UYi, Uh, Uh, AYb, AYb
+AYb, AYb, AYb, UYi, AYb, Uh, Uh, Uh, Uh, Uh, Uh, Uh, UYi, UYi, Uh, Uh, Uh, Uh, AYb, UYi, UYi, UYi, UYi^Crys, UYi, UYi, Uh, Uh, UYi, UYi, AYb, AYb, Uh, Uh, Uh, Uh, Uh, Qxuz, AYb^Vov, AYb, Uh, UYi, AYb, AYb
+AYb, AYb, Uh, Uh, Uh, Uh, Uh, Uh, Uh, AYb^Vov, AYb, Uh, Uh, UYi^Crys, Uh, Uh, Uh, AYb, AYb^Crys, UYi, UYi, AYb, AYb, AYb, Uh, Uh, Uh, UYi, Uh, Uh, Uh, Uh, UYi, UYi, UYi, UYi^Crys, Qxuz, Qxuz, Uh, Uh, Uh, UYi, UYi
+AYb, AYb, Uh, UYi, UYi, Uh, Uh, Uh, UYi, AYb^Crys, UYi, UYi, UYi, Uh, UYi, Uh, AYb, Uh, Uh, UYi, UYi, UYi, AYb, UYi, UYi, Uh, UYi, Uh, Uh, Qxuz, Uh, AYb, AYb, UYi^Crys, AYb, AYb, AYb, Qxuz, UYi, UYi, Uh, UYi^Crys, UYi
+Uh, Uh, AYb, AYb, UYi, UYi, AYb, Uh, UYi, UYi, UYi, UYi, UYi, UYi, UYi, AYb, UYi, UYi, Uh, UYi, UYi, AYb, UYi, AYb, UYi, UYi, AYb, AYb, UYi, Uh, AYb, AYb, AYb, AYb, AYb, AYb, AYb, AYb, UYi, UYi, Uh, Uh, Uh

@@ -1,0 +1,36 @@
+border_size=1
+usage=map
+
+Wog, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Wog, Wog, Wog, Wog, Wog, Wo, Wog, Wog, Wog
+Wog, Wog, Hh, Hh^Dr, Mm, Mm, Mm, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Mm, Hh^Es, Hh, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Hh, Hhd^Vhhr, Mm, Mm, Mm, Mm, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Mm, Hh, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Hh, Hh^Es, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Hh^Es, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Hh^Es, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hhd^Vhhr, Mm, Hh^Es, Wog, Wog, Hh, Hh, Hh^Es, Wog, Wog
+Wog, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Wog, Wog, Wog, Mm, Hh, Wog, Wog
+Wog, Wog, Wog, Hh^Es, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Hh^Dr, Hh^Es, Wog, Wog, Wog, Wog, Wog, Hh^Es, Wog, Wog, Wog
+Wog, Wog, Wog, Hh, Hhd^Vhhr, Mm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Mm, Hh^Es, Hh, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Wog, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Hhd^Vhhr, Mm, Mm, Mm, Mm, Hh, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Wog, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Hh, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Wog, Hh^Es, Hh^Es, Mm, Mm, Mm, Mm, Mm, Mm, Mm^Cov, Mm^Cov, Mm^Cov, Mm, Mm, Mm, Hh, Hh, Wog, Wog, Wog, Wog
+Wog, Wog, Wog, Hh^Es, Hh^Es, Mm, Mm, Mm, Mm, Mm, Mm^Xm, Mm^Xm, 2 Khr, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Hh^Es, Wog, Wog, Wog, Wog
+Wog, Wog, Wog, Wog, Wog, Hh, Hh^Es, Mm, Hh^Es, Mm, Mm^Cov, Mm^Xm, Mm^Cov, Mm^Xm, Mm^Cov, Mm, Mm, Hh^Es, Hh^Es, Hh, Chr^Dr, Wog, Wog
+Wog, Wog, Wog, Wog, Wog, Wog, Wog, Hh, Hh, Mm, Mm, Mm^Cov, Mm, Mm^Cov, Mm, Mm, Mm, Mm, Hh, Hh, Wog, Wog, Wog
+Wog, Wog, Wog, Hhd, Chr^Dr, Wog, Wog, Wog, Hh, Mm, Mm, Mm, Mm, Mm, Hhd^Vhhr, Mm, Mm, Mm, Hh^Es, Hh, Chr^Es, Wog, Wog
+Wog, Wog, Wog, Hhd^Es, Wog, Wog, Wog, Wog, Hh, Hh^Dr, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Wog, Wog, Wog
+Wog, Wog, Wog, Wog, Wog, Wog, Hh, Hh, Mm, Mm, Mm^Xm, Mm, Mm, Mm, Mm, Mm, Hh^Dr, Mm, Hh^Es, Wog, Wog, Wog, Wog
+Wog, Wog, Wog, Wog, Hh, Hh, Mm, Mm, Mm, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Mm, Hh^Dr, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Hh^Es, Hh, Hh^Es, Mm, Mm, Mm, Mm, Mm, Mm, Mm^Xm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hhd^Vhhr, Mm, Mm, Mm, Mm, Hh, Hh, Wog, Wog, Wog, Wog
+Wog, Wog, Hh, Hh^Dr, Mm, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh^Es, Hh, Wog, Wog, Wog, Wog
+Wog, Wog, Hh, Mm, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Mm, Hh, Hh^Es, Wog, Hh, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Hh, Mm, Mm, Mm, Mm, Mm^Xm, Mm, Mm^Xm, Mm, Mm, Hh^Dr, Hh, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Hh, Hhd^Vhhr, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh^Dr, Hh, Wog, Wog, Wog, Wog, Wog, Hhd, Wog, Wog, Wog, Wog
+Wog, Hh, Mm, Mm, Mm, Mm, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Mm, Mm, Hh, Wog, Wog, Wog, Hhd^Es, Mm, Wog, Wog, Wog, Wog
+Wog, Hh, Hh^Es, Mm, Mm, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm, Hhd^Vhhr, Mm, Hh, Wog, Wog, Wog, Hhd^Es, Hhd^Es, Hhd, Wog, Wog, Wog
+Wog, Hh, Mm, Mm, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Hh, Hh, Mm, Mm, Mm, Mm, Mm^Xm, Mm^Cov, Mm, Mm, Mm, Hh, Hh, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Hh, Mm, Mm, Mm, Mm, Mm^Cov, Ke, Mm^Cov, Mm, Hh^Dr, Hh, Wog, Wog, Wog, Chr^Dr, Wog, Wog, Wog, Wog, Wog, Wog
+Wog, Wog, Hh^Es, Mm, Mm, Mm, Mm, Ke, 1 Ke, Ke, Mm, Mm, Mm, Hh^Es, Hh^Es, Hh^Dr, Wog, Wog, Chr^Es, Wog, Wog, Wog, Wog
+Wog, Wog, Hh^Es, Hh^Dr, Mm, Mm, Mm, Mm, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Hh, Wog, Hh^Es, Wog, Wog, Wog, Wog
+Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Hh^Es, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Wog, Wog, Wog, Wog
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Wog, Wo

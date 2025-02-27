@@ -1,0 +1,4 @@
+# ALARIEL'S JOURNEY - TERRAIN NOTES
+
+# The terrain images use the folder structure of the eras and campaigns from which
+# they were taken so as to limit re-coding.
